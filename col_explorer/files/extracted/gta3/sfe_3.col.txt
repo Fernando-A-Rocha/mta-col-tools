@@ -1,0 +1,22 @@
+File 'sfe_3.col' contains 20 collisions named:
+
+fishwarf01
+fishwarf06
+fishwarf03
+jumpbuild_sfe
+vicstuff_sfe6000
+pier69_sfe2
+multustor2_sfe
+cables4
+road09_sfe
+road10_sfe
+road11_sfe
+road27_sfe
+road28_sfe
+pier69gdr
+michdr
+hotelbits_Sfe02
+hotelbits_Sfe01
+hotelbits_Sfe04
+michsign_sfe
+mich_int_sfe

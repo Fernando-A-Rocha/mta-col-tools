@@ -1,0 +1,6 @@
+File 'gen_intb_2.col' contains 4 collisions named:
+
+AH_chiller2
+whorepix
+brothelbar
+whorefurn

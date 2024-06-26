@@ -1,0 +1,25 @@
+File 'sfse_8.col' contains 23 collisions named:
+
+just_stuff07_sfse
+dk_cargoshp2_SFSe
+dk_cargoshp1_SFS01e
+ddfreeway3_SFSe
+xenonroof_SFSe
+drydock3_SFSe
+gatehouse2_SFSe
+bigshed_SFSe01
+gen_whouse01_SFSe
+gen_whouse02_SFSe
+gen_whouse03_SFSe01
+roadsSFSE15
+bigjunction_05_SFSe
+bigjunction_08_SFSe
+bigjunct_09_SFSe
+roadsSFSE21
+dockbarrier1_SFSe
+dockbarrier2_SFSe
+Airport_14B_SFSe
+Airport_14C_SFSe
+gasstatiohut
+facttanks_SFSe08
+facttanks_SFSe09

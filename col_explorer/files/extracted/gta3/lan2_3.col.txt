@@ -1,0 +1,19 @@
+File 'lan2_3.col' contains 17 collisions named:
+
+stolenbuilds05
+towerlan2
+cspGM_LAN2
+crprkblok4_LAN2
+LAdtbuild10_LAn
+cpark_muck_lan2
+paypark_lan
+road01_LAn2
+road03_LAn2
+Freeway3_LAn2
+Freeway6_LAn2
+skyscrapn202
+Freeway10_LAn2
+cpark04_LAN2
+billbrdlan2_08
+LTSLAbuild4_LAn2
+LTSLAsky5_LAn2

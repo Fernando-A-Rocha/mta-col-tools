@@ -1,0 +1,19 @@
+File 'sfs_9.col' contains 17 collisions named:
+
+cathedral_SFS
+alley1_SFS01
+alley2_SFS02
+cityhallsq_SFS
+OC_FLATS_GND17_SFS
+OC_FLATS_GND07_SFS
+ROADSsfs06
+ROADSsfs11
+ROADSsfs29
+OC_FLATS_GND11_SFS
+OC_FLATS_GND10_SFS
+cluckbell_SFS
+lastbit_GND01_SFS
+wires_04_SFS
+cath_hedge_SFS
+wires_04d_SFS
+wires_01b_SFS

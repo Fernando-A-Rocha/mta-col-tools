@@ -1,0 +1,26 @@
+File 'sfse_2.col' contains 24 collisions named:
+
+Airport_14_SFSe
+xenonsign2_SFSe
+car_ship_03_SFSe
+car_ship_04_SFSe
+car_ship_05_SFSe
+airprtgnd_03_SFSe
+baybridge1_SFSe
+subbunker_ext_SFSe
+drydock1_SFSe
+gatehouse1_SFSe
+drydock2_SFSe
+navyfence2_SFSe
+bigshed_SFSe
+drydock1_SFSe01
+Airport_14_SFSe01
+roadsSFSE13
+navyfence_SFSe
+roadsSFSE74
+railbridge03_sfse
+railbridge10_sfse
+bigjunct_10B_SFSe
+bigjuncT_10_SFSe
+baybALPHA_SFSe
+cutseen1_sfse

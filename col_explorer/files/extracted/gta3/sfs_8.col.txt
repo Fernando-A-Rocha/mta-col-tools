@@ -1,0 +1,24 @@
+File 'sfs_8.col' contains 22 collisions named:
+
+OC_FLATS_GND01_SFS
+OC_FLATS_GND02_SFS
+alley2_SFS04
+subshop_SFS
+subshop2_SFS
+ctiyhallsquare_SFS
+cityhall2_SFS
+cityhall2_SFS01
+ROADSsfs12
+ROADSsfs13
+ROADSsfs14
+ROADSsfs28
+ROADSsfs20
+ROADSsfs30
+ROADSsfs25
+tbnSFS
+OC_FLATS_GND12_SFS
+OC_FLATS_GND15_SFS
+modshopdoor1_SFS
+modshopint1_SFS
+wires_07_SFS
+wires_07d_SFS

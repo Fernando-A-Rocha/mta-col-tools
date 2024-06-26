@@ -1,0 +1,17 @@
+File 'countrys_2.col' contains 15 collisions named:
+
+cuntwjunk02
+cuntwjunk04
+cuntwjunk03
+cuntwjunk01
+cuntwjunk06
+cuntwjunk07
+cuntwjunk08
+cuntwjunk09
+cuntwjunk11
+cw2_weefirz08
+cs_landbit_16
+cs_landbit_23
+cs_landbit_31
+cs_landbit_01
+cs_roads12

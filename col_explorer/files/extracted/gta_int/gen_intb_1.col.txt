@@ -1,0 +1,12 @@
+File 'gen_intb_1.col' contains 10 collisions named:
+
+ryblinds
+rykitunit
+ryders_wall_stuf
+rydhall
+rybathroom
+rybatharse01
+rylounge
+ryshadroom
+arsewinows
+sweetsdaylight02

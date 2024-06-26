@@ -1,0 +1,27 @@
+File 'countn2_16.col' contains 25 collisions named:
+
+des_tepeoff
+des_westrn11_04
+des_nmot_
+des_ngassta
+des_rockgp2_15
+des_rockgp1_12
+n_bit_02
+n_bit_07
+n_bit_11
+n_bit_14
+n_bit_18
+desn2_minerun
+des2_bushybits
+desn2_hutskel2
+desn2_hutskel03
+desn2_weemineb
+desn2_platroks
+desn2_alphabit07
+des_rockgp1_05
+n_bit_11b
+n_bit_11c
+cxrf_a51_stairs08
+cn2_DETAIL01
+des_cn2_detailbit
+des_cn2_detail2

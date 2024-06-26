@@ -1,0 +1,23 @@
+File 'sfw_9.col' contains 21 collisions named:
+
+road_SFW02
+road_SFW03
+road_SFW07
+park3_sfw
+park1_sfw
+park2_sfw
+lake_sfw
+road_SFW14
+donuts2_sfw
+donuts_sfw
+road_SFW33
+road_SFW34
+road_SFW36
+road_SFW49
+sfw_boxwest05
+sfw_waterfall
+parkbridge_sfw
+fountain_SFW
+park3a_sfw
+lod_park3a_sfw
+park2a_sfw

@@ -1,0 +1,26 @@
+File 'lae_2.col' contains 24 collisions named:
+
+laeBlakWesTran2
+laeJeffers02
+laeganghous205
+laeJeffers03
+laeJeffers05
+laeroad03
+laeroad06
+laeroad08
+laeChicano02
+laeChicano01
+laeChicano03
+laeChicano05
+laeChicanoTr1
+laeJeffers01
+laeroad17
+laeroad27
+laeroad28
+laeroad30
+laeHillsctst03
+laecompmedhos518
+LAEalpha6
+motelalpha
+laeChicano01b
+LTSlaeChicano02

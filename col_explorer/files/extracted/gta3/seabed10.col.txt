@@ -1,0 +1,10 @@
+File 'seabed10.col' contains 8 collisions named:
+
+sbseabed_05_SFSe
+sbseabed_09_SFSe
+sbseabed_02_SFSe
+sbseabed_01_SFSe
+sbObject04
+sbObject05
+cuntw_roadblock04ld
+cuntw_roadblock05ld

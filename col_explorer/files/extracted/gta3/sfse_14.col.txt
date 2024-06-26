@@ -1,0 +1,23 @@
+File 'sfse_14.col' contains 21 collisions named:
+
+roadsSFSE05
+traintrax05_SFS
+traintrax04_SFS
+Silicon11_SFS
+Silicon12_SFS
+depot_SFS
+landy2
+roadsSFSE64
+roadsSFSE65
+roadsSFSE66
+roadsSFSE78
+roadsSFSE82
+roadsSFSE83
+roadsSFSE51
+Stunnel_1A_SFSe
+southtunnel_03_SFS
+southtunnel_03A_SFS
+Silicon11_land
+Silicon11_land2
+roadsSFSE67
+fosterflowers02

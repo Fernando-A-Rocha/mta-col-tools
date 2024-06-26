@@ -1,0 +1,26 @@
+File 'countn2_1.col' contains 24 collisions named:
+
+cen_bit_18
+ne_bit_02
+ne_bit_09
+ne_bit_14
+ne_bit_15
+ne_bit_17
+ne_bit_19
+ne_bit_21
+cen_bit_07
+cen_bit_13
+ne_bit_24
+ne_bit_26
+cen_bit_23
+desn2_tsfuelpay
+desn2_tsblock
+desn2_tscanopy
+des_trstplines
+des_studbldg
+des_studgrnd
+desn2_studbush
+des_nt_buntpoles01
+des_alphabit11
+des_alphabit12
+des_aroadbit12

@@ -1,0 +1,21 @@
+File 'sfe_4.col' contains 19 collisions named:
+
+pier69_models07
+pier69_models04
+pier69_models06
+ferryshops2
+ferryshops3
+ferryshops4
+ferryshops5
+ottos_AUTOS_sfe
+pier69_sfe1
+fer_cars2_sfe
+fer_cars3_sfe
+bombshop
+bombdoor02
+p69_rocks
+ferspaces
+ottos_ramp
+ottos_bits
+road03_sfe
+pier69_models05

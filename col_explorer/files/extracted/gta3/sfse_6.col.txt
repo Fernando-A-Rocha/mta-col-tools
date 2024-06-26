@@ -1,0 +1,11 @@
+File 'sfse_6.col' contains 9 collisions named:
+
+Airport_02_SFSe
+Airport_03_SFSe
+Airport_05_SFSe
+Airport_07_SFSe
+Airport_09_SFSe
+airfence_01_SFSe
+aircarpkbarier_SFSe
+apinnerfence2_SFSe
+southtunnel_04_SFS

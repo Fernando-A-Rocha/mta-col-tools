@@ -1,0 +1,13 @@
+File 'cxref_industrial.col' contains 11 collisions named:
+
+pylon_big1_
+ref_oiltank01
+refchimny01
+refinerybox1
+refthinchim1
+refcondens1
+substa_transf1_
+substa_transf2_
+substa_grid_
+cxrf_watertwr
+cxrf_oiltank

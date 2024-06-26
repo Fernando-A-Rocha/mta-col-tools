@@ -1,0 +1,10 @@
+File 'int_la_4.col' contains 8 collisions named:
+
+kb_tr_main
+kb_tr_bits
+jet_interior
+chairs
+motel_skuzmain1
+motel_toilet
+motel_bath1
+motel_skuz_win

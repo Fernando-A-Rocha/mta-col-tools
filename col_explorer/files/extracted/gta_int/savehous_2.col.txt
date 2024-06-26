@@ -1,0 +1,20 @@
+File 'savehous_2.col' contains 18 collisions named:
+
+MED_DINNING_2_sv
+newhouse1
+bigLAshadow
+countrysavehouse
+svvgmdshadfloor
+LABIGSAVEHOUse
+svlabigkitchshad
+svlabigbits
+svsfsmshad
+savelamid
+svsfsmshadfloor2
+midvegsavehouse
+labihalfhouse
+svsfmdshadflr1
+svlamidshad
+lamidshadflr
+svmidsavebits
+svrails

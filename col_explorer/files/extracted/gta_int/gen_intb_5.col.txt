@@ -1,0 +1,10 @@
+File 'gen_intb_5.col' contains 8 collisions named:
+
+curses04
+sfhsm1
+sfhsm1lights
+sfhsm2
+sfhsm2bits
+curses02
+shite
+shitlobby

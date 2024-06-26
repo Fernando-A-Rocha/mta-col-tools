@@ -1,0 +1,14 @@
+File 'gen_int5_1.col' contains 12 collisions named:
+
+int_din_donut_main
+int_pizzaplace
+mp_dinersmall
+tables
+big_seats
+condiments07
+Donut_rail
+lightD
+din_donut_furn
+LIGHT_SHARD_07
+BARBER_BLINDS03
+cj_RUBBISH01

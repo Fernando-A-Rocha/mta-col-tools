@@ -1,0 +1,18 @@
+File 'sfse_7.col' contains 16 collisions named:
+
+road_sfse12
+gen_whouse03_SFSe
+roadsSFSE09
+bigjunction_06_SFSe
+bigjunction_07_SFSe
+roadsSFSE16
+roadsSFSE18
+roadsSFSE20
+blacksky_SFSe
+wc_lift_SFSe
+blackskyrail_SFSe
+bakery_SFSe
+landbit01b_SFSe
+dockbarrier2z_SFSe
+dkgrassbitsfse
+nightlights02_SFSE

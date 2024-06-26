@@ -1,0 +1,26 @@
+File 'gen_int5_4.col' contains 24 collisions named:
+
+ammunationwwws01
+int_clothingA01
+int_clothe_ship
+GAP
+range_xtras2
+munation_main
+CJ_AMMUN1_EXTRA
+munation_xtras2
+range_main
+Gun-Shop-Vegas
+vg_mun_opac2
+vg_mun_xtras4
+vg_mun_xtras3
+gun_counter09
+blood-splat
+clothes-spot
+GAP_COUNTER
+Gap_Shadow
+Sub_shadow
+cj_changing_room
+CJ_SWEATER_F_71
+CJ_AMMUN_BITS1
+CJ_AMMUN_BITS
+sub_signs

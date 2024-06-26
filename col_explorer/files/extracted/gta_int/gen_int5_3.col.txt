@@ -1,0 +1,27 @@
+File 'gen_int5_3.col' contains 25 collisions named:
+
+clothes_sports
+clothes_shit
+clothesexl
+CJ_AMMUN3_EXTRA
+mp_ammu01
+mp_ammu03
+mpgun_counter06
+mp_ammu02
+ammu_twofloor
+range_opac01
+range_xtras03
+munation_xtras03
+munation_xtras04
+munation_xtras05
+ab_sfAmmuItems01
+ab_sfAmmuItems02
+ab_sfAmmuUnits
+ab_sfAmmuMain
+posterv
+clothes_sports2
+GAP_WINDOW
+SHAD_1
+ammun3_counter
+CJ_AMMUN5_EXTRA
+CJ_AMMUN4_EXTRA

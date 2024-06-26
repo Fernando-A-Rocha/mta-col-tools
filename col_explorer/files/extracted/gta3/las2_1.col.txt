@@ -1,0 +1,19 @@
+File 'las2_1.col' contains 17 collisions named:
+
+sanpdmdock2_las2
+sanpdmdock1_las2
+sanpedbigbrid_las2
+dk_cargoshp03d
+dk_cargoshp05d
+dk_cargoshp24d
+dk_cargoshpd25d
+dk_cargoshp76d
+dkcargohull2d
+LODcargoshp03d
+LODcargoshp04d
+dkcargohull2bd
+dkcargohull2cd
+sanpdmdocka_las2
+dockfencee_las2
+dockfencer_las2
+snpedteew8_las07

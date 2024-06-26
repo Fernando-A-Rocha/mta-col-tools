@@ -1,0 +1,17 @@
+File 'countrye_3.col' contains 15 collisions named:
+
+cunte_roads48
+cunte_roads50
+sw_bridge03
+sw_jetty
+sw_shack02
+CE_archbridge
+cunte_roadsbar05
+CE_groundPALO03
+CE_groundPALO04
+sw_watertower04
+cuntEground04
+CEwirestown07
+cuntEground04A
+CE_groundPALO03A
+CE_groundPALO04A

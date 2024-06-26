@@ -1,0 +1,10 @@
+File 'countryn_8.col' contains 8 collisions named:
+
+des_nwt_carport
+nw_bit_03
+nw_bit_08
+nw_bit_14
+nw_bit_18
+nw_bit_22
+con_br06
+pylon-wires03

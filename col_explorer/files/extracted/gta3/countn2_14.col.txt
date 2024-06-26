@@ -1,0 +1,24 @@
+File 'countn2_14.col' contains 22 collisions named:
+
+des_cockbody
+des_westrn2_
+des_ntcafe
+des_ntwn_lines2_
+des_ntwn_lines6_
+des_nt_buntpoles
+des_cockbunting
+des_rockgp1_02
+des_rockgp1_03
+des_rockgp1_04
+des_rockgp2_07
+des_rockgp2_11
+des_rockgp1_06
+des_rockfl1_01
+n_bit_04
+n_bit_10
+cen_bit_01
+cen_bit_09
+cen_bit_15
+n_bit_09
+desn2_peckfac1
+desn2_peckjump

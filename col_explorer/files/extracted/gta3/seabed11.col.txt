@@ -1,0 +1,13 @@
+File 'seabed11.col' contains 11 collisions named:
+
+sbcw_seabed01
+sbcuntwland27b
+sbcuntwland28b
+sbcuntwland30b
+sbcuntwland28bb
+sbcuntwland30bb
+cuntw_roadblock01ld
+cuntw_roadblock02ld
+cuntw_roadblock03ld
+CE_Flintwat01ld
+CE_Flintintld

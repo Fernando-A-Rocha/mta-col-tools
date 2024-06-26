@@ -1,0 +1,16 @@
+File 'countryn_7.col' contains 14 collisions named:
+
+con_lighth
+con_tunll_sup03
+nw_bit_02
+nw_bit_07
+nw_bit_12
+nw_bit_13
+nw_bit_17
+des_decocafe
+cn_nbridegrails
+cn_tunlbarrier
+cn_sta_grid_03
+nw_bit_06
+nw_bit_01
+desn_detail03

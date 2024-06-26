@@ -1,0 +1,24 @@
+File 'vegase_12.col' contains 22 collisions named:
+
+vgsbldng01_lvs
+shop06_lvs
+VegasEroad021
+vgsEcoast07
+exclbr_hotl02_lvS
+shop08_lvs
+VegasEroad111
+VegasEroad110
+shop07_lvs
+VegasEroad114
+VegasEroad071
+shbbyhswall07_lvs
+vgsEland24_lvs
+shbbyhswall09_lvs
+shabbyhouse11_lvs
+vgsEland09_lvs
+excalibur02_lvS
+VegasEroad050
+VegasEroad069
+vegasEroad070
+vgEferryland
+cmdgrgdoor_lvs

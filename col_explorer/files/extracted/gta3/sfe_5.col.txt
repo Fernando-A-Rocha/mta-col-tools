@@ -1,0 +1,15 @@
+File 'sfe_5.col' contains 13 collisions named:
+
+vicstuff_sfe17
+bigvic_a1
+tunnel_sfe
+vicstuff_sfe22
+fishwarf20_sfe
+fishwarf24_sfe
+fishwarf21_sfe
+road13_sfe
+fishwarf13_sfe
+aprtmnts03_sfe
+road19_sfe
+road20_sfe
+bigvicgrnd_sfe

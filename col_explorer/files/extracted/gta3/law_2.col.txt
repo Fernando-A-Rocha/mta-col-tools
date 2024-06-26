@@ -1,0 +1,17 @@
+File 'law_2.col' contains 15 collisions named:
+
+venblue01_law
+LAbeach_03bx
+LAbeach_04bx
+vengym_law
+gzbuild2_law
+lawroads_law16
+gaz5_LAW01
+gaz26_law
+gaz_pier2
+gaz_pier1
+gaz27_LAW
+ja_gerrartlaw
+beachbunt2
+canal_arch01
+canal_floor3

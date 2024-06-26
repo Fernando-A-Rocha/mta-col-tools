@@ -1,0 +1,15 @@
+File 'seabed6.col' contains 13 collisions named:
+
+sbseabed2_las2
+sbseabed1_las2
+sbseabed5_las2
+sbseabed6las2
+sbseabed8_las2
+sbseabed7_las2
+sbseabed86_las2
+sbseabed9_las20
+sbseabed91_las2
+sbseabed93_LAS
+sbseabed92_LAS
+sbseabed94_LAS
+sbseabed95_LAS

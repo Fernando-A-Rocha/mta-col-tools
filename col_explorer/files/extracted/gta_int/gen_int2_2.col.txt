@@ -1,0 +1,8 @@
+File 'gen_int2_2.col' contains 6 collisions named:
+
+int2smSf01_int01
+int2Hoose16
+int2Hoose08
+int2lasmone04
+int2lasmone01
+int2lasmone02

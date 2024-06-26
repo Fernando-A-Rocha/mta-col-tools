@@ -1,0 +1,22 @@
+File 'countn2_3.col' contains 20 collisions named:
+
+des_roadbar01
+des_roadbar02
+des_roadbar03
+des_a51guardbox04
+des_snakefarm_
+ne_bit_23
+ne_bit_06
+ne_bit_12
+cen_bit_05
+cen_bit_10
+cen_bit_16
+cen_bit_21
+cen_bit_24
+a51_extfence06
+desn2_alphabit02
+desn2_alphabit04
+cn2_rnway_bit2
+des_cn2_detail3
+des_cn2_detail4
+des_detailbit06

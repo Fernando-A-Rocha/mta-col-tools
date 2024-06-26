@@ -1,0 +1,22 @@
+File 'lahills_4.col' contains 20 collisions named:
+
+CEhollyhil03
+CEmullholdr05
+road_hillLAwn15
+hollyhil10
+road_hill04b
+VineSign1_cunte
+cunte_hollyhil01
+drg_nu_ext
+drg_nu_ext05
+cuntebridge01
+hollyhil04a
+hollyhil05
+road_hill01
+cunte_skatetrak
+skateivy
+CE_safeground
+CE_safedoor01
+CEhollyhil01
+VineSign1_cunte01
+road_hill13

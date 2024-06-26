@@ -1,0 +1,10 @@
+File 'int_cont_1.col' contains 8 collisions named:
+
+trukstp04
+trukstp05
+trukstp02
+trukstp03
+trukstp06
+trukstp01
+tsdinerXitbox
+cuntchairs

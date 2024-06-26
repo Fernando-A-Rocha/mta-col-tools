@@ -1,0 +1,23 @@
+File 'stadint_4.col' contains 21 collisions named:
+
+kickcar28
+loopbig
+kickramp03
+fireyfire
+stand02
+ringwalls
+sumoring
+stand04
+stuntman03
+thebowl17
+thebowl15
+sumofence
+midringfence
+kickramp04
+kickramp06
+ramplandpad
+ramplandpad01
+otunnel
+oroadbit
+innerfence
+fuckknows

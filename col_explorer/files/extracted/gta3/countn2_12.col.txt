@@ -1,0 +1,14 @@
+File 'countn2_12.col' contains 12 collisions named:
+
+des_nbrstruct
+des_roadbar05
+des_rockgp2_05
+des_rockgp2_09
+des_rockgp1_07
+des_rockgp1_09
+n_bit_05
+cen_bit_02
+cen_bit_20
+desn2_alphabit01
+des_blackbags
+des_ntwn_lines3_

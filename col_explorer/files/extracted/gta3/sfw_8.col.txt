@@ -1,0 +1,20 @@
+File 'sfw_8.col' contains 18 collisions named:
+
+sandbch_sfw02
+sfw_boxwest10
+sfw_boxwest04
+sandbch_sfw04
+sandbch_sfw03
+sfw_boxwest12
+sandbch_sfw01
+sfw_boxwest02
+road_SFW37
+sfw_boxwest03
+sfw_boxwest01
+sfw_boxwest06
+sfw_boxwest08
+sfw_boxwest09
+sfw_boxwest11
+sfw_boxwest07
+bumblister_SFW
+ggcarpark_sfw

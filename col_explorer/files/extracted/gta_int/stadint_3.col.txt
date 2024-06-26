@@ -1,0 +1,8 @@
+File 'stadint_3.col' contains 6 collisions named:
+
+destruct04
+standblack02
+thebowl13
+thebowl11
+thebowl10
+thebolla04

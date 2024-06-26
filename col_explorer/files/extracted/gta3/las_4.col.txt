@@ -1,0 +1,27 @@
+File 'las_4.col' contains 25 collisions named:
+
+LAroads_05_LAs
+hillpalos04_LAs
+clifftest02
+clifftest05
+clifftest07
+lasgrifsteps2
+griffithoblas
+grifftop2
+hillpalos02_LAs
+hillpalos01_LAs
+hillpalos06_LAs
+dwntwnbit4_LAS
+dwntwnbit3_LAS
+clifftest12
+Beach1a1_LAs
+clifftestgrnd
+odfwer_LAS
+LODfftop03
+lasbillbrd1_las
+LAroadsbrk_05_LAs
+grifovrhang2_LAS
+lanitewin1_LAS
+hillpawfnce_LAs
+rdcrashbar1_LAs
+rdcrashbar2_LAs

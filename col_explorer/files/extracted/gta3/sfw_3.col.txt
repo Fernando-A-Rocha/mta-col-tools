@@ -1,0 +1,24 @@
+File 'sfw_3.col' contains 22 collisions named:
+
+road_SFW10
+supasave_sfw
+boxbuildsfw_31
+blokcut_sfw04
+firscape_sfw04
+blokmod3_sfw04
+frway_box2
+land_04_sfw
+sprasfw
+spraysfw
+spdr_sfw
+carspaces3_sfw
+road_SFW25
+road_SFW01
+road_SFW47
+road_SFW48
+blokmod3_sfw69
+blokcut_sfw01
+blokcut_sfw02
+blokcut_sfw03
+firscape_sfw02
+firscape_sfw03

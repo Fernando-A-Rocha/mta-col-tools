@@ -1,0 +1,22 @@
+File 'vegasw_5.col' contains 20 collisions named:
+
+vgswlcmsign1
+vegasgolfcrs08
+vegasWedge16
+vegasNroad36
+vegasNland05
+vegasWedge08
+vegasWedge09
+vegasNland08
+vgswindustroad01
+vgnhseing42
+vegaswrailroad01
+vegasgolfcrs06
+vegasgolfcrs07
+vegaswtrainfence07
+vgswlcmsign2
+lodaswrailroad01
+vegasWedge28
+vegasWedge30
+glfcrsgate29_vgn
+vegaspumphouse1

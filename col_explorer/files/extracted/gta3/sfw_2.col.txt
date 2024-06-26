@@ -1,0 +1,7 @@
+File 'sfw_2.col' contains 5 collisions named:
+
+chinagate
+road_SFW11
+road_SFW12
+road_SFW16
+chinawning69

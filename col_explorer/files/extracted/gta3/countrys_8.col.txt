@@ -1,0 +1,26 @@
+File 'countrys_8.col' contains 24 collisions named:
+
+mtb2_barrier3
+mtb2_barrier6
+mtb2_barrier4
+mtb2_barrier5
+cw_mountbarr04
+cw_mountbarr07
+cw_mountbarr05
+cs_landbit_35
+cs_landbit_36
+cs_landbit_47
+cs_landbit_55
+cs_landbit_56
+cs_landbit_64
+cs_landbit_73
+cs_roads06
+cs_roads07
+cs_roads08
+cs_roads16
+cs_roads35
+cs_detrok04
+cs_detrok05
+cs_detrok06
+cs_detrok07
+cs_landbit_36_A

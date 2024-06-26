@@ -1,0 +1,27 @@
+File 'countrye_12.col' contains 25 collisions named:
+
+cunte_roads14
+sw_gate1
+sw_cont03
+cuntEground11
+cuntEground09b
+cunte_roads76
+sw_bridge01
+roadfromLAN2
+CEhollyhil16
+CEhollyhil17
+CEroadTEMP2
+CEhllyhil01a
+cunte_roads30bar
+cuntEgund11a
+cuntEground36
+cunte_roads31
+CEhllyhil02a
+CEhllyhil02aA
+CEhllyhil01aA
+cuntEground09bA
+cuntEground36A
+cuntEgund11aA
+cuntEground11A
+CEhollyhil17A
+CEhollyhil16A

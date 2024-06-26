@@ -1,0 +1,11 @@
+File 'countrye_11.col' contains 9 collisions named:
+
+cuntEground08
+cunte_roads29
+cunte_roads30
+sw_trailer02
+sw_breweryFence02
+cuntEground34a
+cunte_roads30bar01
+cuntEground34aA
+cuntEground08A

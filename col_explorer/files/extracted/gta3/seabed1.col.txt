@@ -1,0 +1,19 @@
+File 'seabed1.col' contains 17 collisions named:
+
+sbseabed_sfe03
+sbseabed_sfe05
+sbseabed_SFN02
+sbseabed_SFN03
+sbseabed_SFNcunt
+sbseabed1_SFW
+sbseabed2_SFW
+sbseabed6_SFW
+sbseabed_CN01
+sbseabed_CN03
+sbseabed_CN04
+sfw_roadblock1ld
+sfw_roadblock2ld
+sfw_roadblock3ld
+sfn_roadblockld
+sbseabed_SFN03bb
+sbseabed_SFN01

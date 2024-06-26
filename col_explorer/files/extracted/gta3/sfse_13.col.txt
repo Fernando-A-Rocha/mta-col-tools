@@ -1,0 +1,18 @@
+File 'sfse_13.col' contains 16 collisions named:
+
+roadsSFSE02
+Airport_04_SFSe
+airfence_03_SFSe
+ap_smallradar1_SFSe
+ap_bigsign_SFSe
+airwelcomesign_SFSe
+roadsSFSE07
+sf_landbut02
+sf_landbut01
+xsjmstran1
+cuntwland36_SFS
+roadsSFSE71
+dockbarrier2zb_SFSe
+dockbarrier2zc_SFSe
+dockbarrier2zd_SFSe
+dockbarrier2ze_SFSe

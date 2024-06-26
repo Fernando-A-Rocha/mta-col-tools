@@ -1,0 +1,14 @@
+File 'seabed2.col' contains 12 collisions named:
+
+sbseabed_sfe01
+sbseabed_sfe69
+sbxseabed_CN02
+sbxseabed_CN06
+sbxseabed_CN07
+sbseabed_08_SFSe
+sbseabed_07_SFSe
+sbseabed_03_SFSe
+sfse_roadblock1
+sfse_roadblock3
+sfse_roadblock4
+sfse_roadblock5

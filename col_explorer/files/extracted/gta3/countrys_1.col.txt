@@ -1,0 +1,7 @@
+File 'countrys_1.col' contains 5 collisions named:
+
+cs_landbit_25
+cs_landbit_33
+cs_landbit_34
+cs_landbit_33_A
+cs_landbit_25_A

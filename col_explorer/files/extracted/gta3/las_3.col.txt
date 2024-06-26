@@ -1,0 +1,22 @@
+File 'las_3.col' contains 20 collisions named:
+
+clifftest09
+clifftestgrnd2
+ROCKLIFF1_LAS
+bchcostrd3_LAS
+bchcostrd4_LAS
+Beach1_LAs0fg
+Beach1_LAs0fhy
+lasundrairprt1
+lasundrairprt3
+airtun1_LAS
+lasrnway2_LAS
+lasrnway1_LAS
+airpurt2bx_las
+bchcostair_LAS
+lasrunwall1ct_LAS
+las_runsigns_LAS
+bchcostrd4fuk_LAS
+airctsjm1_las
+sjmctfnce6_las
+sjmctfnce7_las

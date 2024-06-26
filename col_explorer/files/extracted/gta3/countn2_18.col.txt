@@ -1,0 +1,18 @@
+File 'countn2_18.col' contains 16 collisions named:
+
+des_telefenc
+des_teleshed2_
+des_rockgp2_19
+des_rockgp2_20
+des_rockgp2_23
+radar_bit_01
+s_bit_02
+s_bit_05
+s_bit_09
+s_bit_14
+s_bit_21
+des_ebrigroad10
+cn2_savgardr1_
+cn2_jetty1
+cn2_rockgpst
+cn2_alphabit01

@@ -1,0 +1,21 @@
+File 'lahills_1.col' contains 19 collisions named:
+
+cunte_roads05
+CE_roads87
+CEla_roads62
+CE_roadscoast08
+lae2_ground01
+HillsEast05_LAe
+mulhouse03_cunte
+TCEmulwire01
+CEmulwire01
+cunte_Flyover2
+CE_HillsEast06
+CE_grndPALCST02
+CE_grndPALCST05
+cuntEground16
+cuntEground20
+cuntEground23
+cuntEground24
+cuntEground25
+cuntEground28

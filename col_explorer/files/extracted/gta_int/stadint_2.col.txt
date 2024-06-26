@@ -1,0 +1,20 @@
+File 'stadint_2.col' contains 18 collisions named:
+
+stand03
+standblack04
+destruct06
+stad_tag
+kickramp05
+inner
+stands
+8road2
+8stad
+8screen
+dirtstad
+dirtcrowds
+dirtouter01
+darkpoly
+bridge
+8bar5
+8track1
+cockbars

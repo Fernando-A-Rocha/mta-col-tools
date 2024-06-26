@@ -1,0 +1,21 @@
+File 'vegasw_6.col' contains 19 collisions named:
+
+vegasgolfcrs01
+vegasgolfcrs02
+vegasNroad34
+vegasNroad35
+vegasNroad40
+vegasNroad46
+vegaswrailroad04
+glfcrsgate2_vgn
+vgnlowbuild236
+vegasNroad22
+vegasWcoast04
+vegasgolfcrs03
+vegasgolfcrs04
+vegasgolfcrs05
+vegaswtrainfence06
+vegascrashbar04
+vgwsavehse2
+vgwsavehsedor
+vegasNroad22b

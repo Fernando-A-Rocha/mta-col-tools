@@ -1,0 +1,14 @@
+File 'countryn_3.col' contains 12 collisions named:
+
+des_railfenc1
+nw_bit_30
+sw_bit_05
+sw_bit_08
+sw_bit_14
+nw_bit_29
+sw_bit_01
+sw_bit_02
+sw_bit_15
+sw_teline_05
+sw_teline_06
+cn_wires1

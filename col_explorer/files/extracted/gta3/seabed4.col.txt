@@ -1,0 +1,12 @@
+File 'seabed4.col' contains 10 collisions named:
+
+sbcn_seafloor03
+sbcn_seafloor04
+sbcn_seafloor01
+sbcn_seafloor05
+sbcn_seafloor06
+sbcn_seafloor08
+sbcn_seafloor09
+sbcn_seafloor10
+sfse_roadblock2
+sbcn_seafloor02

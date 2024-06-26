@@ -1,0 +1,11 @@
+File 'gen_int2_5.col' contains 9 collisions named:
+
+int2labigtwo01
+int2labig301
+int2labigone01
+int2lamid01_rail
+2labigone_bits
+int2lamid01_rail2
+int2lamid01_rail3
+int2lamid01_rail4
+int2labig302

@@ -1,0 +1,12 @@
+File 'lahills_2.col' contains 10 collisions named:
+
+CEhollyhil09X
+CEnwhiltest3
+CEnwhiltest5
+CEhillbar2b
+CEnorthbrij01
+CEroad_6
+radarmast1_LAwN01
+CEnwhiltest5base
+LAhills_border2
+LAhBoards_LAh1

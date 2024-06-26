@@ -1,0 +1,26 @@
+File 'countryw_2.col' contains 24 collisions named:
+
+lawestbridge_law
+cuntwwires
+cw2_garage
+cw2_garagecanopy
+cw2_genstore
+smltrukext
+smlltrukint
+cuntwland39b
+cuntwland40b
+cuntwland48b
+cuntwland50b
+cuntwland54b
+cuntwroad21
+cuntwroad68
+cuntwroad71
+bwidgecuntw
+cuntwrail04c
+cuntwland49b
+cuntwland51b
+cuntwroad22
+cuntwroad23
+concretearch03
+cuntwmotsignCJ
+xoverlaydrt

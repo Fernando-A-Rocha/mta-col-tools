@@ -1,0 +1,14 @@
+File 'seabed7.col' contains 12 collisions named:
+
+sbcne_seafloor05
+sbseabed3_las20
+sbvgsEseafloor03
+sbvgsSseafloor04
+sbObject06
+sbObject07
+sbObject08
+beach04_sv
+sv_roadscoast01
+beach04b_sv
+CE_Makospan1ld
+sbCE_grndPALCST05

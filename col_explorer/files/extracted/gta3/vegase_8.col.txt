@@ -1,0 +1,19 @@
+File 'vegase_8.col' contains 17 collisions named:
+
+ballys03_lvs
+ballys02_lvs
+pirtehtl02_lvS
+pirtehtl01_lvS
+vgsEedge16
+VegasEroad022
+VegasEroad041
+vgsEedge19
+ballysbase_lvs
+vgsEedge21
+pirtebrdg01_lvS
+prtbrdgrope_lvS
+vgsEedge17
+vgsEedge20
+vgsEedge22
+vgsEedge18
+tislandbrdge01_lvs

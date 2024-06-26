@@ -1,0 +1,4 @@
+File 'gen_intb_4.col' contains 2 collisions named:
+
+sfhsm03
+Object03

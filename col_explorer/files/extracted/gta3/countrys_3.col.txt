@@ -1,0 +1,11 @@
+File 'countrys_3.col' contains 9 collisions named:
+
+cuntwjunk05
+cuntwjunk10
+cs_landbit_24
+cs_landbit_32
+cs_roads13
+cs_roadbridge01
+cs_roadbridge04
+countS_lights01
+cs_landbit_A

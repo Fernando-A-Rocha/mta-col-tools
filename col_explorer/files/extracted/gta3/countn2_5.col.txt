@@ -1,0 +1,25 @@
+File 'countn2_5.col' contains 23 collisions named:
+
+a51_gatecontrol
+des_a51infenc
+ne_bit_07
+ne_bit_13
+cen_bit_11
+cen_bit_19
+ne_bit_25
+a51_extfence03
+a51_outbldgs
+by_fuel06
+a51_gatecon_a
+a51_ugstore1a
+a51_fakeroom2
+a51_entstair
+a51_fakealpha1
+a51_fakealpha2
+a51_entstuff
+a51_radar_stuff
+a51_radar_scan
+a51_radarroom
+a51_machines
+a51_extfence01
+a51_ventcover

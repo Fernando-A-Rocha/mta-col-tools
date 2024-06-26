@@ -1,0 +1,5 @@
+File 'gen_int2_4.col' contains 3 collisions named:
+
+int2lamid01
+int2lamidtwo01
+int2lasmtwo02

@@ -1,0 +1,12 @@
+File 'gen_int2_1.col' contains 10 collisions named:
+
+int2Hoose2
+int2Hoose09
+int2Hoose2_bits
+int2Vase
+int2vgshM3
+int2vgshM2
+int2Hoose09_Bits
+int2Hoose09_Bits2
+int2Hoose09_Bits3
+int2Hoose09_Bits4

@@ -1,0 +1,11 @@
+File 'countryw_8.col' contains 9 collisions named:
+
+cuntwland15b
+cuntwland16b
+cuntwland17_de
+cuntwroad31
+cuntwroad48
+cuntwrail12
+cuntytunnel2
+xoverlaymap07b
+cuntwland17_de_a

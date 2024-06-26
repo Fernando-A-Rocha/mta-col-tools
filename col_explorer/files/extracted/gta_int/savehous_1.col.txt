@@ -1,0 +1,24 @@
+File 'savehous_1.col' contains 22 collisions named:
+
+genmotelfurn_sv
+imy_roomfurn12_sv
+immy_clothes_sv
+genmotel2sh_sv
+genmotel2_sv
+genmotel_sv
+lasmall1_sv
+lasmallfurn_sv
+vegashotel_sv
+hotelgen_sv
+kb_bed_test2_sv
+kit_cab_washin_sv
+Plant_Pot_3_sv
+mrk_bed02_sv
+cuntbits
+cunthouse
+svcuntflorday
+lamidshadfloor
+svlasmshad
+bigniceveghotel
+svvgmedhoose
+bihotelshad

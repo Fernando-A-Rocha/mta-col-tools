@@ -1,0 +1,25 @@
+File 'sfs_1.col' contains 23 collisions named:
+
+transmitter_sfs
+sfshill02
+sfshill03
+sfshill05
+golftunnel1_SFS
+hc_track02_SFS
+hc_golfcrse02_SFS
+hc_golfcrse03_SFS
+hc_golfcrse05_SFS
+hc_golfcrse09_SFS
+sfshill13
+sfshill14
+sfshill15
+sfshill08
+sfshill01
+sfshill10
+SV_ground_04_SFS
+golftunnel3_SFS
+golftunnel2_SFS
+golftunnel4_SFS
+sfshill10b
+elecstionv_SFS
+transmitbldg_SFS

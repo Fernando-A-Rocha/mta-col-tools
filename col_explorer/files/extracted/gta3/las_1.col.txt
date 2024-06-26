@@ -1,0 +1,27 @@
+File 'las_1.col' contains 25 collisions named:
+
+NWCSTRD1_LAS
+bchcostrd1_LAS
+Beach1_LAs04
+Beach1_LAs0gj
+airtun2_LAS
+airtun3_LAS
+lasrnway3_LAS
+lasairprterm2_LAS
+airprtwlkto1_LAS
+airsinage_LAS
+airsinage3_LAS
+airsinage4_LAS
+lasrunwall2_LAS
+lasrnway4_LAS
+lasrnway5_LAS
+lasrnway6_LAS
+lasrunwall1_LAS
+snpedteairt_LAS
+airtun2ct_LAS
+las_runsignsx_LAS
+sjmctfnce1_las
+sjmctfnce2_las
+sjmctfnce3_las
+sjmctfnce4_las
+alphbrk6_las

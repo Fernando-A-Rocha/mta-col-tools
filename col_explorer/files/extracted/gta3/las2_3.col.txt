@@ -1,0 +1,24 @@
+File 'las2_3.col' contains 22 collisions named:
+
+LADocks2_las2
+sanpdmdock3_las2
+NEWCOMP2_las2
+NWCSTRD2_las2
+dockcranescale0
+imcomp1trk
+imracompint_las2
+imcompstrs02
+imrancomp1_las2
+las2dkwar107
+dockoff01_LAs2
+nwdkbridd_las2
+las2dkwar01
+las2dkwar02
+las2dkwar03
+las2dkwar04
+imracompral_las2
+las2dkwar05
+NEWCMPTRK_las2
+dockfenceq_las2
+dockfencew_las2
+NWCSTRtr_las2

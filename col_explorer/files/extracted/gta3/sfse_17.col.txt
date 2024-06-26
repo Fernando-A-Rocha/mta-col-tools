@@ -1,0 +1,25 @@
+File 'sfse_17.col' contains 23 collisions named:
+
+roadsSFSE22
+landbit04_SFS
+Silicon09B_SFS
+roadsSFSE26
+stadium_SFSe
+stadiumroof_SFS
+cuntwland37_SFS
+cuntwland26_SFS
+tankfact03_SFS
+crackfacttanks_SFS
+crackfactwalk
+roadsSFSE50
+roadsSFSE54
+roadsSFSE63
+roadsSFSE68
+roadsSFSE69
+roadsSFSE70
+sfselandy2
+roadsSFSE48
+Silicon09A_SFS
+nuroad_sfse
+corvinsign_SFSe
+stadiumgates_SFSe

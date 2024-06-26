@@ -1,0 +1,4 @@
+File 'quarrycrane.col' contains 2 collisions named:
+
+quarry_crane
+quarry_cranebase

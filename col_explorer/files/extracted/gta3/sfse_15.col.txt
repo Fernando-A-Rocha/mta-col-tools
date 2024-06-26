@@ -1,0 +1,21 @@
+File 'sfse_15.col' contains 19 collisions named:
+
+roadsSFSE01
+roadsSFSE06
+underfreeway_SFSe
+roadsSFSE08
+sfseland02
+roadsSFSE10
+sfseland01
+roadsSFSE25
+SV_ground_02_SFS
+southtunnel_01_SFS
+roadsSFSE27
+cuntwland39_SFS
+roadsSFSE28
+roadsSFSE77
+roadsSFSE79
+roadsSFSE80
+roadsSFSE81
+roadsSFSE84
+fosterflowers1

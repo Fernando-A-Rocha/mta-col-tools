@@ -1,0 +1,13 @@
+File 'countryn_2.col' contains 11 collisions named:
+
+dam_turbine_4
+dam_turbine_3
+dam_turbine_2
+dam_turbine_1
+dam_statarea
+dam_statues
+nw_bit_26
+dambit1
+dambit2
+dambit3
+n_dambarriers

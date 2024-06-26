@@ -1,0 +1,11 @@
+File 'sfse_5.col' contains 9 collisions named:
+
+roadsSFSE04
+Airport_08_SFSe
+airfence_04_SFSe
+airfence_02_SFSe
+apfuel1_SFSe
+airprtgnd_02_SFSe
+airprtgnd_04_SFSe
+apinnerfence3_SFSe
+apinnerfence1_SFSe

@@ -1,0 +1,19 @@
+File 'countn2_8.col' contains 17 collisions named:
+
+des_powercable_19
+quarry_bit04
+se_bit_05
+se_bit_10
+se_bit_14
+se_bit_15
+se_bit_20
+se_bit_21
+cn2_slines09
+quarry_fenc07
+quarry_fenc08
+quarry_cranhook
+quarry_crhookcble
+des_cranecontrol
+des_shed3_01
+des_rdalpha01
+se_bit_19

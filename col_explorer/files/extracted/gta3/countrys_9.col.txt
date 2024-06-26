@@ -1,0 +1,21 @@
+File 'countrys_9.col' contains 19 collisions named:
+
+cw2_mntfir11
+cuntw_shed3_01
+cw2_mtbfinish
+cs_landbit_37
+cs_landbit_38
+cs_landbit_48
+cs_landbit_57
+cs_landbit_65
+cs_landbit_74
+cs_roads09
+cs_roads17
+cs_roads20
+mtb_poles01
+mtb_poles02
+cs_mntdetail01
+cs_detrok03
+telewires2cs
+cs_landbit_65_A
+cs_landbit_48_A

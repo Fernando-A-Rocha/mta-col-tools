@@ -1,0 +1,23 @@
+File 'las_5.col' contains 21 collisions named:
+
+lasgrifroad
+lasairprt5
+airpurtder_las
+airoad1d_LAS
+airoad1b_LAS
+LAroadsx_04_LAs
+airpurtderfr_las
+hillpalos03_LAs
+lasundrairprt2
+airpurt2ax_las
+obcity1_LAS
+hillpaloswal1_LAs
+dwntwnbit2_LAS
+lastranentun1_LAS
+lastranentun4_LAS
+dwntwnbit1_LAS
+dwntwnbit2b_LAS
+Cylinder03
+airobarsjm_LAS
+lanitewin2_LAS
+sjmbarct1_LAS

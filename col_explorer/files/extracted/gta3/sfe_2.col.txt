@@ -1,0 +1,13 @@
+File 'sfe_2.col' contains 11 collisions named:
+
+ferryland3
+pier1_sfe
+pier3_sfe
+freig2_intSFE
+shipbits2_sfe
+shipbits1_sfe
+freight_litesSFE
+freighter2b_SFE
+freighter_sfe
+freightboxes
+ferryland_sfe112

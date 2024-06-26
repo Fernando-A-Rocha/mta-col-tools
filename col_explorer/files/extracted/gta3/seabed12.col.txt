@@ -1,0 +1,27 @@
+File 'seabed12.col' contains 25 collisions named:
+
+sbsbedlaw2
+sbsbed4law2
+sbsbed5law2
+sbsbed8law2
+sbsbed9law2
+sbsbed1law2
+sbsbed3law2
+sbsbed6law2
+sbsbed7law2
+sbsbed91law2
+sbseabed96_LAS
+sbseabed97_LAS
+sbseabed99_LAS
+sbseabed98_LAS
+sbseabed81_LAS
+sbseabed85_LAS
+sbseabed84_LAS
+sbseabed83_LAS
+sbseabed82_LAS
+sbseabed01_LAW
+sbcw_seabed02
+sbcw_seabed03
+sbcw_seabed04
+sbcw_seabed05
+cuntw_roadblockld

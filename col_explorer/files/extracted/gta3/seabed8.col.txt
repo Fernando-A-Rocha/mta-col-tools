@@ -1,0 +1,9 @@
+File 'seabed8.col' contains 7 collisions named:
+
+sbCE_groundPALO09
+sbObject09
+sbObject10
+sbObject11
+sbObject12
+CE_Fredbarld
+CE_Fredbar01ld

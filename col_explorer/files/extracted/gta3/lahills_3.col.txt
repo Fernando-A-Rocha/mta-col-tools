@@ -1,0 +1,21 @@
+File 'lahills_3.col' contains 19 collisions named:
+
+CEhollyhil06
+CEhollyhil8a
+road_hil03
+radarmast1_LAwN
+cunte_hollyhil9
+CE_hollyhil8a
+CEroad_hill20
+opmans01_cunte
+road_hill08
+CEgraveBuil03_LAwN
+CEgraveBuil01
+CEhillhouse04
+CEmulhouse04
+cuntelandF4
+CELAlandbiv
+CEhollyhil8a01
+CEGraveBlok03e
+CEroadn
+CEroad_hill01

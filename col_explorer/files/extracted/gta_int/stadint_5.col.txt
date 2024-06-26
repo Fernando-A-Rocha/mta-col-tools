@@ -1,0 +1,5 @@
+File 'stadint_5.col' contains 3 collisions named:
+
+kickbus04
+supports
+wall2

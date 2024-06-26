@@ -1,0 +1,4 @@
+File 'countryn_6.col' contains 2 collisions named:
+
+nw_bit_27
+nw_bit_28
